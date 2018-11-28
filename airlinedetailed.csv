@@ -1,0 +1,473 @@
+index,title,rating,food,entertainment,comfort,service,value
+1,Aerolineas Argentinas,5,3,2,3,3,3
+2,Avianca Brazil,7,4,4,4,4,4
+3,Spirit Airlines,3,2,1,2,2,2
+4,Scoot,5,2,1,3,3,3
+5,Atlasglobal,6,3,2,3,3,3
+6,EVA Air,8,4,4,4,4,4
+7,CSA Czech Airlines,5,3,2,3,3,3
+8,Copa Airlines,6,3,2,3,3,3
+9,Sky Airline,5,3,1,3,3,3
+10,Easyfly,4,3,NULL,3,3,3
+11,Kan Air,6,3,NULL,4,4,3
+12,Atlantic Airways,9,4,2,4,5,4
+13,Cambodia Angkor Air,5,2,1,3,3,3
+14,flydubai,4,2,2,2,3,3
+15,Hong Kong Airlines,6,3,3,4,4,3
+16,PAWA Dominicana,5,3,NULL,3,5,3
+17,Thai Smile Airways,6,3,3,3,4,4
+18,BH Air,8,3,NULL,4,3,4
+19,Arkia Israeli Airlines,5,2,1,2,3,3
+20,Binter Canarias,9,4,NULL,4,5,4
+21,Air Corsica,7,3,NULL,3,4,4
+22,Yeti Airlines,8,4,NULL,3,5,5
+23,China Southern Airlines,8,4,4,4,4,4
+24,Germanwings,6,2,1,3,3,3
+25,Etihad Airways,5,3,3,3,3,3
+26,VivaAerobús,3,3,NULL,2,4,3
+27,United Airlines,3,2,2,2,2,2
+28,Mauritania Airlines,4,1,NULL,1,1,2
+29,Boutique Air,1,NULL,NULL,2,2,1
+30,Cape Air,5,NULL,NULL,2,2,2
+31,Air Iceland Connect,10,5,NULL,5,5,5
+32,Avianca Ecuador,6,3,2,3,3,3
+33,Azul Airlines,7,3,3,3,3,3
+34,Airnorth,7,2,NULL,2,3,3
+35,Malmo Aviation,7,5,5,5,5,5
+36,PenAir,4,3,NULL,4,3,2
+37,Blue Islands,6,2,1,3,3,3
+38,Berjaya Air,8,3,3,3,3,4
+39,Qazaq Air,9,5,NULL,4,5,5
+40,Bangkok Airways,8,4,1,4,4,4
+41,Vueling Airlines,3,2,1,2,2,2
+42,Precision Air,4,3,1,3,3,3
+43,flyadeal,3,3,NULL,2,3,3
+44,ViaAir,1,1,NULL,2,3,1
+45,Titan Airways,5,3,2,3,3,3
+46,Cayman Airways,4,2,NULL,3,3,2
+47,American Eagle,5,3,1,3,3,3
+48,Virgin Australia,6,3,3,3,3,3
+49,Flair Airlines,3,2,1,2,2,2
+50,Vistara,9,4,3,5,5,4
+51,Air Juan,3,NULL,NULL,5,4,2
+52,airblue,3,3,1,2,3,3
+53,MEGA Maldives Airlines,4,2,NULL,1,4,1
+54,Evelop Airlines,4,2,1,2,3,3
+55,Flybe,5,2,NULL,3,3,3
+56,Surinam Airways,6,2,NULL,2,4,3
+57,Air New Zealand,7,3,3,3,4,3
+58,GoAir,4,2,1,2,2,2
+59,Iran Air,5,4,2,4,4,4
+60,ANA All Nippon Airways,8,4,4,4,5,4
+61,Garuda Indonesia,8,4,4,4,5,4
+62,Peach Aviation,5,3,NULL,3,3,3
+63,Aeromexico,5,3,3,3,3,3
+64,Adria Airways,6,3,2,4,4,3
+65,Passaredo,3,1,1,2,2,3
+66,Aerocaribbean,3,NULL,NULL,NULL,NULL,4
+67,SpiceJet,4,2,1,2,3,3
+68,Swiss Intl Air Lines,7,4,3,4,4,4
+69,Afriqiyah Airways,5,NULL,NULL,NULL,NULL,3
+70,Vanilla Air,5,3,1,2,3,3
+71,Egyptair,5,3,2,3,3,3
+72,SkyWest Airlines,7,1,1,3,3,3
+73,InterSky,6,4,1,4,5,4
+74,Bulgaria Air,6,2,NULL,2,2,3
+75,LOT Polish Airlines,5,3,2,3,3,3
+76,Air Tahiti Nui,5,3,2,2,3,3
+77,Jin Air,7,4,2,3,5,4
+78,China Eastern Airlines,5,3,2,3,3,3
+79,Jetstar Japan,2,2,2,2,2,2
+80,Silver Airways,3,1,1,2,2,2
+81,Corsair,5,2,1,2,3,3
+82,Allegiant Air,3,2,1,2,3,2
+83,Winair,1,NULL,NULL,3,3,1
+84,El Al Israel Airlines,5,3,2,3,3,3
+85,Brussels Airlines,5,3,2,3,3,3
+86,Firefly,7,4,3,4,5,4
+87,Felix Airways,8,NULL,NULL,4,4,3
+88,Africa World Airlines,10,5,NULL,4,5,5
+89,Solomon Airlines,8,4,2,4,4,4
+90,Joon,3,2,3,2,3,2
+91,Air China,4,2,2,3,3,3
+92,Island Air,4,1,1,2,2,2
+93,SAS Scandinavian,5,3,2,3,3,3
+94,Wideroe,8,2,NULL,4,5,4
+95,Mahan Air,7,4,3,4,4,4
+96,Jordan Aviation,9,4,NULL,5,5,5
+97,China United Airlines,4,3,1,3,2,3
+98,Skymark Airlines,9,4,1,4,5,4
+99,AirAsia Philippines,4,2,1,3,4,3
+100,Coastal Aviation,9,NULL,NULL,4,5,5
+101,Juneyao Airlines,5,3,1,4,3,3
+102,US Airways,4,2,2,3,3,3
+103,LAN Airlines,6,3,3,4,4,3
+104,Volotea,3,2,1,3,3,2
+105,SCAT Airlines,7,3,NULL,3,3,5
+106,Kulula,5,2,1,2,3,3
+107,Somon Air,4,2,1,3,3,3
+108,Batik Air,6,3,3,4,3,4
+109,Safi Airways,5,1,NULL,1,2,2
+110,Darwin Airline,6,2,2,3,3,3
+111,Yemenia,4,NULL,NULL,NULL,NULL,4
+112,Arik Air,4,2,2,2,2,2
+113,Israir Airlines,3,3,3,3,4,3
+114,Bahamasair,3,2,2,2,2,2
+115,Edelweiss Air,7,4,4,3,4,3
+116,Boliviana de Aviacion,6,3,2,3,3,4
+117,ATA Airlines,2,2,NULL,1,2,2
+118,Ural Airlines,5,3,NULL,3,4,3
+119,Myanmar National Airlines,8,4,4,4,5,4
+120,Biman Bangladesh Airlines,6,3,2,3,3,3
+121,Phuket Air,2,NULL,NULL,NULL,NULL,NULL
+122,British Airways,5,3,3,3,3,3
+123,Amaszonas,3,2,3,3,3,2
+124,Condor Airlines,4,3,2,3,3,3
+125,TAG Airlines,9,4,1,5,5,4
+126,Petroleum Air Services,8,NULL,NULL,NULL,NULL,4
+127,US-Bangla Airlines,5,5,NULL,3,3,3
+128,Dniproavia,8,NULL,NULL,NULL,NULL,4
+129,Loganair,7,5,NULL,3,4,3
+130,AirSWIFT,7,NULL,NULL,3,4,3
+131,Nouvelair,4,2,1,2,3,2
+132,Meridiana,5,3,2,3,3,3
+133,Olympic Air,8,4,1,4,4,4
+134,Blu-express,4,1,1,1,1,2
+135,Lion Air,4,1,1,2,2,3
+136,Kuwait Airways,5,3,2,3,3,3
+137,Helvetic Airways,7,3,1,3,3,3
+138,Openskies,6,1,1,2,2,2
+139,NIKI,8,3,2,3,3,3
+140,Air Mauritius,5,3,2,2,3,3
+141,Lao Airlines,8,3,2,4,4,4
+142,Singapore Airlines,8,4,4,4,4,4
+143,Lucky Air,4,3,NULL,4,3,2
+144,Porter Airlines,4,3,1,3,3,3
+145,TACA Airlines,7,3,2,4,4,4
+146,Southwest Airlines,6,3,3,3,3,3
+147,Flynas,3,1,1,2,2,2
+148,LATAM Airlines,4,2,3,3,3,2
+149,French Bee,1,NULL,1,1,1,1
+150,SATA International,4,2,2,2,3,2
+151,Tailwind Airlines,4,NULL,NULL,2,2,3
+152,Sun Country Airlines,5,3,2,3,3,3
+153,Seaborne Airlines,2,1,NULL,2,2,1
+154,Comair,5,3,2,3,3,3
+155,Frontier Airlines,3,1,1,2,2,2
+156,TAROM Romanian,7,4,2,4,4,4
+157,Jazz,8,4,3,3,5,4
+158,Air Serbia,6,3,2,4,4,3
+159,Golden Myanmar Airlines,10,5,NULL,4,5,5
+160,S7 Siberia Airlines,7,3,2,4,4,4
+161,LC Perú,4,3,3,3,3,2
+162,AirAsia India,4,2,2,3,3,2
+163,ASKY Airlines,4,2,NULL,3,2,2
+164,AirAsia,6,3,1,3,3,4
+165,Transaero Airlines,5,2,1,3,3,3
+166,Fiji Airways,5,3,3,3,3,3
+167,Air Costa,8,3,NULL,5,4,5
+168,XL Airways France,5,3,2,2,3,3
+169,Ravn Alaska,5,4,1,3,4,3
+170,Laudamotion,2,NULL,NULL,2,1,2
+171,Tigerair Australia,4,3,1,3,3,3
+172,Swoop,4,3,3,3,3,3
+173,VivaColombia,2,1,1,2,1,2
+174,Star Peru,4,2,1,3,2,3
+175,TAME,3,2,1,2,2,1
+176,Air Moldova,6,3,1,3,3,3
+177,Turkish Airlines,5,4,3,3,3,3
+178,Georgian Airways,4,2,1,3,3,2
+179,Thai Airways,7,4,4,4,4,4
+180,Sol Líneas Aéreas,1,NULL,NULL,NULL,NULL,1
+181,Buraq Air,7,NULL,NULL,4,4,4
+182,Monarch Airlines,6,3,1,3,4,3
+183,FMI Air,10,5,NULL,4,5,5
+184,Beijing Capital Airlines,6,2,2,4,5,4
+185,Transavia,5,2,2,3,3,3
+186,Badr Airlines,8,5,NULL,3,5,4
+187,Hainan Airlines,8,4,4,4,5,4
+188,Air Italy,5,4,1,3,4,3
+189,Air India,6,3,3,3,3,3
+190,Cubana Airlines,4,2,1,3,3,2
+191,SATA Air Azores,4,2,1,2,2,2
+192,Eritrean Airlines,6,NULL,NULL,NULL,NULL,4
+193,Insel Air,3,2,2,2,2,2
+194,TAAG Angola Airlines,5,3,3,4,3,3
+195,Conviasa,8,NULL,NULL,NULL,NULL,4
+196,Tianjin Airlines,6,2,2,3,4,4
+197,Ethiopian Airlines,5,3,2,3,3,3
+198,Jetstar Airways,5,2,2,3,3,3
+199,TAR Aerolineas,5,2,1,3,4,3
+200,Blue1,5,2,NULL,3,3,3
+201,Omni Air International,6,3,2,3,4,3
+202,Lufthansa,7,4,4,3,4,4
+203,Air Austral,6,3,3,3,4,3
+204,Skytrans Airlines,8,5,NULL,4,5,3
+205,TUIfly,4,2,2,2,3,3
+206,Air Nostrum,6,2,NULL,4,3,3
+207,Air Seychelles,5,3,3,3,3,3
+208,Virgin America,7,3,4,4,3,3
+209,Hawaiian Airlines,5,3,2,3,3,3
+210,Air Panama,2,2,NULL,1,2,2
+211,Mann Yadanarpon Airlines,9,5,NULL,3,5,2
+212,Canadian North,6,4,NULL,4,4,3
+213,euroAtlantic Airways,2,2,2,1,2,2
+214,Cathay Pacific Airways,7,3,4,4,4,4
+215,Air Botswana,6,2,NULL,2,2,2
+216,Thomas Cook Airlines,5,3,2,3,3,3
+217,Estonian Air,6,3,2,4,4,4
+218,TAP Portugal,5,3,2,3,3,3
+219,Tunisair,5,3,1,3,3,3
+220,Air Dolomiti,7,4,2,4,4,4
+221,Camair-Co,1,1,NULL,2,2,2
+222,Sunwing Airlines,4,2,2,2,3,2
+223,Citilink,7,3,NULL,4,4,4
+224,Dragonair,7,4,3,4,4,4
+225,SriLankan Airlines,6,4,3,3,4,4
+226,Tigerair,6,2,1,3,3,3
+227,Air Malta,6,2,1,3,3,3
+228,Bhutan Airlines,7,3,4,4,4,4
+229,AirAsia Zest,6,NULL,NULL,3,3,3
+230,Luxair,6,4,2,4,4,3
+231,Japan Airlines,7,4,4,4,4,4
+232,Utair Aviation,6,2,1,2,2,3
+233,StarFlyer,8,5,4,5,5,5
+234,Santa Barbara Airlines,5,3,2,2,3,3
+235,Saudi Arabian Airlines,6,3,3,3,3,3
+236,V Air,5,4,3,3,3,3
+237,Shenzhen Airlines,5,3,2,3,3,3
+238,Cobalt,6,4,2,4,4,4
+239,SmartWings,4,3,2,2,3,3
+240,Emirates,6,3,4,4,3,3
+241,MIAT Mongolian Airlines,7,3,2,4,4,3
+242,Regent Airways,6,3,NULL,3,4,4
+243,JetsuiteX,10,5,NULL,5,5,5
+244,CityJet,6,3,1,3,3,3
+245,QantasLink,7,2,1,3,3,3
+246,Ariana Afghan Airlines,6,3,NULL,3,4,5
+247,Cathay Dragon,7,4,4,4,4,4
+248,Aigle Azur,4,1,1,3,3,3
+249,Freebird Airlines,5,1,1,2,2,2
+250,Mihin Lanka,5,2,1,3,3,4
+251,Germania Airline,5,3,3,3,3,3
+252,Sky Express Airlines,6,3,1,3,3,3
+253,Avior Airlines,4,1,NULL,4,2,4
+254,SilkAir,7,3,2,4,4,3
+255,VietJet Air,4,2,1,3,3,3
+256,Alaska Airlines,6,3,2,3,4,3
+257,Thomson Airways,6,3,2,3,3,3
+258,Jetblue Airways,5,3,3,3,3,3
+259,Azur Air Germany,1,2,1,1,2,1
+260,Blue Air,5,3,2,3,3,3
+261,Air Namibia,6,4,2,4,4,3
+262,Gol Transportes Aéreos,5,2,1,3,3,3
+263,HOP!,6,3,2,3,4,3
+264,Nordavia,7,NULL,NULL,NULL,NULL,1
+265,KLM Royal Dutch Airlines,7,4,3,3,4,4
+266,Nature Air,2,NULL,NULL,3,3,1
+267,Jetairfly,5,3,3,3,4,3
+268,Pobeda Airlines,3,1,1,2,2,3
+269,Air Cairo,6,3,2,3,3,3
+270,Shaheen Air,7,4,NULL,4,4,4
+271,Air North Yukon's Airline,6,5,NULL,4,5,3
+272,Aero VIP,8,NULL,NULL,4,2,3
+273,Aeroflot Russian Airlines,6,3,3,3,4,4
+274,Aerosur,5,3,2,2,3,2
+275,fastjet,4,2,1,3,3,2
+276,Thomas Cook Airlines Belgium,5,5,3,4,4,3
+277,Alliance Airlines,6,2,1,1,5,4
+278,Air France,6,3,3,3,3,3
+279,Shanghai Airlines,5,3,1,3,3,3
+280,HK Express,4,2,2,3,3,3
+281,Regional Express,7,3,NULL,3,4,3
+282,Turkmenistan Airlines,4,3,1,3,2,3
+283,China Airlines,7,3,3,3,4,4
+284,Fly540.com,5,2,1,2,2,3
+285,AirAsia X,7,3,1,4,4,4
+286,Alitalia,5,3,2,3,3,3
+287,Air Pegasus,3,NULL,NULL,4,3,2
+288,Horizon Air,6,4,NULL,3,5,4
+289,Hi Fly,5,3,3,3,3,3
+290,Jazeera Airways,4,2,1,2,3,3
+291,Philippine Airlines,6,3,2,3,4,3
+292,Bassaka Air,8,5,NULL,4,4,4
+293,Wamos Air,3,2,1,2,2,2
+294,Danish Air Transport,7,3,NULL,3,4,3
+295,Air Malawi,4,NULL,NULL,NULL,NULL,NULL
+296,Kish Airlines,5,3,1,3,3,3
+297,LAN Peru,4,3,3,3,4,3
+298,Tigerair Taiwan,5,5,3,4,4,3
+299,Ukraine International,5,2,1,3,3,3
+300,Azerbaijan Airlines,7,4,3,4,4,4
+301,South African Airways,6,3,3,3,3,3
+302,Iberia,6,3,3,3,3,3
+303,Uzbekistan Airways,4,3,2,3,3,3
+304,Gulf Air,6,3,3,3,4,3
+305,Nok Air,7,3,1,3,4,4
+306,Buddha Air,7,3,2,3,4,3
+307,Peruvian Airlines,2,2,1,2,2,2
+308,Montenegro Airlines,5,3,1,4,3,4
+309,Sansa Airlines,9,NULL,NULL,3,5,4
+310,Mokulele Airlines,3,1,NULL,3,3,2
+311,Cambodia Bayon Airlines,3,2,NULL,3,4,4
+312,Ryanair,5,2,1,3,3,3
+313,Loch Lomond Seaplanes,8,NULL,5,5,5,5
+314,Arkefly,5,1,1,1,1,2
+315,Sichuan Airlines,6,3,2,3,3,3
+316,Rossiya Airlines,6,3,1,3,4,4
+317,NAM Air,5,3,NULL,2,3,3
+318,Jet Airways,5,3,2,3,3,3
+319,SereneAir,9,3,NULL,4,5,4
+320,Finnair,6,3,3,3,4,3
+321,Air Macau,4,2,1,2,3,2
+322,LIAT,4,1,NULL,2,2,2
+323,Air Arabia,4,2,1,3,3,2
+324,Air KBZ,8,3,NULL,4,4,4
+325,airBaltic,5,2,1,3,3,3
+326,Skybus,3,NULL,NULL,NULL,NULL,NULL
+327,Vietnam Airlines,6,3,2,3,3,4
+328,Safarilink,7,3,NULL,3,3,2
+329,Tibet Airlines,8,3,3,4,4,4
+330,UP by El Al,4,2,2,2,2,3
+331,Cebu Pacific,5,2,1,3,3,3
+332,Avianca,5,3,3,3,3,3
+333,Pegasus Airlines,4,2,1,2,3,3
+334,Druk Air,8,4,1,4,5,3
+335,Primera Air,3,1,2,4,3,3
+336,Mandarin Airlines,7,3,NULL,4,4,4
+337,Air Koryo,6,3,2,4,4,4
+338,Air Mediterranee,4,4,1,3,3,3
+339,Martinair,3,NULL,NULL,NULL,NULL,2
+340,TACV Cabo Verde Airlines,3,2,1,3,3,2
+341,Yakutia Airlines,6,3,NULL,3,3,4
+342,Air Canada,5,3,3,3,3,3
+343,IndiGo,7,3,1,3,4,4
+344,Far Eastern Air Transport,4,2,NULL,2,3,3
+345,Royal Brunei Airlines,8,4,3,4,4,4
+346,Aeromar,4,3,1,3,3,2
+347,Kenya Airways,5,3,2,3,3,3
+348,Malindo Air,5,3,3,3,3,3
+349,Ellinair,8,4,3,4,5,4
+350,La Compagnie,6,4,3,4,4,4
+351,Austrian Airlines,6,3,3,3,4,3
+352,Privilege Style,5,3,1,2,4,3
+353,Air Busan,9,3,2,4,5,4
+354,Air Canada rouge,3,2,2,2,3,2
+355,Wings Air,2,1,1,2,1,2
+356,Henan Airlines,8,NULL,NULL,NULL,NULL,4
+357,VLM Airlines,5,4,NULL,4,5,4
+358,FlySafair,6,3,1,3,3,3
+359,Madagasikara Airways,10,5,NULL,4,5,5
+360,Jeju Air,5,2,1,2,3,3
+361,Onur Air,6,2,1,2,3,3
+362,Karthago Airlines,3,NULL,NULL,NULL,NULL,3
+363,Air Transat,5,3,3,3,4,3
+364,Blue Panorama Airlines,2,2,1,2,2,2
+365,Air Berlin,5,3,3,3,3,3
+366,Central Mountain Air,7,2,NULL,2,3,3
+367,Tropic Air Belize,8,NULL,NULL,4,5,5
+368,Air Niugini,5,2,3,3,3,2
+369,Thai Lion Air,5,3,1,3,3,3
+370,Wizz Air,4,2,1,2,3,3
+371,Air Madagascar,3,2,1,2,2,2
+372,Thai AirAsia,5,3,3,3,3,3
+373,Grand Cru Airlines,10,5,NULL,5,5,5
+374,Shandong Airlines,6,4,2,4,4,4
+375,PAL Express,4,2,1,2,3,3
+376,Oman Air,7,4,4,4,4,4
+377,Virgin Atlantic,5,3,3,3,3,3
+378,AnadoluJet,4,1,1,2,2,2
+379,Canaryfly,5,3,NULL,3,4,5
+380,Iran Aseman Airlines,5,4,NULL,3,4,3
+381,Myanmar Airways,8,3,1,4,4,4
+382,Interjet,4,3,2,3,3,2
+383,Thomas Cook Airlines Scandinavia,6,3,3,3,3,3
+384,Carpatair,4,NULL,NULL,NULL,NULL,4
+385,Europe Airpost,9,4,3,4,4,5
+386,Airlink,7,4,NULL,4,4,4
+387,SkyWork Airlines,5,3,NULL,3,3,2
+388,Yangon Airways,9,4,NULL,5,4,4
+389,bmi Regional,5,3,2,3,4,3
+390,Suparna Airlines,5,1,1,4,4,3
+391,WOW air,3,2,1,2,3,2
+392,SATENA,5,NULL,NULL,3,3,3
+393,LAM Mozambique,3,3,2,3,3,2
+394,Air Bagan,6,4,2,4,5,4
+395,Royal Jordanian Airlines,6,3,3,3,3,3
+396,Level,3,2,4,3,3,3
+397,TACA Regional,6,NULL,NULL,NULL,NULL,2
+398,Air Astana,8,4,4,4,4,4
+399,Aurigny Air,7,3,1,3,4,3
+400,TUIfly Nordic,5,4,2,1,4,1
+401,Sriwijaya Air,5,3,1,3,3,3
+402,Malawian Airlines,5,4,NULL,3,4,3
+403,SA Express,6,2,1,2,2,2
+404,Caribbean Airlines,5,3,2,3,3,3
+405,Iraqi Airways,9,4,5,5,5,5
+406,Air Caraibes,5,2,2,2,2,2
+407,Croatia Airlines,6,3,1,3,4,3
+408,Air Memphis,3,NULL,NULL,NULL,NULL,2
+409,Small Planet Airlines,6,3,2,3,4,4
+410,Nordica,9,2,NULL,5,5,4
+411,Orient Thai Airlines,7,1,NULL,2,2,3
+412,Spring Airlines,5,2,1,2,3,3
+413,Libyan Airlines,4,NULL,NULL,NULL,NULL,1
+414,Nordwind Airlines,7,1,NULL,3,2,4
+415,Qatar Airways,8,4,4,4,4,4
+416,Delta Air Lines,5,3,3,3,3,3
+417,Novair,7,NULL,NULL,NULL,NULL,1
+418,Pakistan Intl Airlines,5,3,2,3,3,3
+419,Nepal Airlines,7,4,2,4,4,4
+420,BA CityFlyer,8,4,NULL,5,5,4
+421,Asiana Airlines,8,4,3,4,4,4
+422,WestJet Airlines,5,2,2,3,3,3
+423,Korean Air,8,4,4,4,4,4
+424,Aer Lingus,7,3,2,3,4,4
+425,easyJet,6,3,1,3,4,3
+426,Xiamen Airlines,5,3,2,3,3,3
+427,Middle East Airlines,7,3,3,3,3,3
+428,Norwegian,6,3,3,3,3,3
+429,Air Vanuatu,6,3,2,3,4,3
+430,Air India Express,3,2,1,2,3,2
+431,Eastar Jet,6,2,1,3,3,4
+432,Royal Air Maroc,4,3,2,3,3,3
+433,Aegean Airlines,8,4,2,4,4,4
+434,Corendon Airlines,5,3,2,3,3,3
+435,Mango Airlines,5,3,3,3,3,3
+436,Rwandair,6,3,2,3,3,3
+437,LAN Colombia,6,3,4,4,4,4
+438,Dynamic International Airways,1,NULL,NULL,2,2,1
+439,Jet2.com,7,3,1,3,4,4
+440,BoraJet,1,3,NULL,3,3,1
+441,NextJet,3,4,NULL,1,2,1
+442,Tame Línea Aérea Del Ecuador,2,1,1,2,2,2
+443,Icelandair,6,3,3,3,4,3
+444,SunExpress,5,3,1,3,4,3
+445,Maldivian,5,3,NULL,3,4,3
+446,Air Zimbabwe,4,4,1,3,4,2
+447,T'Way Air,8,NULL,NULL,3,5,4
+448,Jetstar Pacific,3,2,1,2,2,2
+449,Air Greenland,5,2,2,2,3,2
+450,Belavia,6,3,2,3,3,3
+451,Moldavian Airlines,8,NULL,NULL,NULL,NULL,4
+452,SyrianAir,3,NULL,NULL,NULL,NULL,4
+453,Iberia Express,4,2,3,2,3,2
+454,Jetstar Asia,5,2,1,3,3,3
+455,Eastern Airways,5,2,1,2,3,2
+456,TUI Airways,6,3,3,3,4,3
+457,Sudan Airways,1,NULL,NULL,NULL,NULL,NULL
+458,Air Labrador,2,NULL,NULL,3,4,4
+459,Eurowings,3,2,2,3,3,2
+460,Aircalin,7,4,3,3,4,3
+461,Sun-Air,10,5,3,5,5,5
+462,TAM Airlines,5,3,3,3,3,3
+463,Okay Airways,6,2,NULL,3,2,4
+464,MAYAir,1,NULL,NULL,3,4,4
+465,Malaysia Airlines,6,3,3,3,4,4
+466,Air Algerie,4,3,2,2,3,3
+467,Qantas Airways,7,3,4,4,4,3
+468,Air Europa,4,2,2,3,3,3
+469,Volaris,4,2,1,2,2,2
+470,American Airlines,3,2,2,2,2,2
+471,TransAsia Airways,8,NULL,NULL,NULL,NULL,4
+472,Kam Air,3,NULL,NULL,NULL,NULL,NULL

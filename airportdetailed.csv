@@ -1,0 +1,862 @@
+index,airport,rating,seating,clean,queue
+1,Krasnodar Airport,3,1,3,2
+2,Cúcuta Airport,8,4,5,5
+3,Rome Fiumicino Airport,3,2,3,2
+4,Pointe Noire Airport,3,NULL,3,3
+5,Phu Quoc Airport,6,3,4,4
+6,New York JFK Airport,3,2,3,2
+7,Nice Airport,3,2,3,2
+8,Bujumbura Airport,4,NULL,3,3
+9,El Calafate Airport,10,4,5,5
+10,Da Nang Airport,5,3,4,3
+11,Grenoble Airport,1,1,2,1
+12,Zadar Airport,8,NULL,5,3
+13,Sukhothai Airport,5,NULL,5,5
+14,Kolkata Airport,5,3,3,3
+15,Tel Aviv Airport,5,4,4,3
+16,Limoges Airport,9,3,5,4
+17,Milan Malpensa Airport,4,3,3,3
+18,Belize Airport,6,1,4,4
+19,Corfu Airport,3,2,2,2
+20,Tenerife Airport,4,3,3,3
+21,Memphis Airport,7,5,4,4
+22,Bhubaneswar Airport,4,NULL,5,5
+23,Kaunas Airport,4,3,4,4
+24,Warsaw Chopin Airport,5,3,4,3
+25,Lismore Airport,6,NULL,5,5
+26,Punta Gorda Airport,1,2,3,2
+27,Rennes Airport,6,2,4,1
+28,Yichang Sanxia Airport,1,NULL,NULL,NULL
+29,Dinard Airport,3,2,3,2
+30,Newcastle Airport,4,2,4,3
+31,Guam International Airport,2,NULL,NULL,NULL
+32,Zaragoza Airport,5,NULL,5,4
+33,Yuzhno Sakhalinsk Airport,2,1,2,1
+34,Katowice Airport,5,2,4,3
+35,Skopje Airport,5,3,4,4
+36,Kabul Airport,4,3,4,5
+37,Sandakan Airport,9,4,5,5
+38,Dhaka Airport,4,3,3,3
+39,Copenhagen Airport,4,2,4,3
+40,Luanda Airport,2,2,2,2
+41,Harare Airport,9,5,5,4
+42,Gran Canaria Airport,1,3,4,1
+43,Qingdao Airport,6,NULL,5,4
+44,Birmingham-Shuttlesworth Airport,7,5,4,4
+45,Florence Airport,4,1,3,3
+46,Linz Airport,4,2,4,4
+47,La Palma Airport,8,4,5,3
+48,Yaounde Airport,4,NULL,2,2
+49,Oklahoma City Airport,5,NULL,3,5
+50,Bangor Airport,3,NULL,4,3
+51,Split Airport,3,1,3,2
+52,Birmingham Airport,3,2,3,2
+53,Fort Lauderdale Airport,2,2,2,2
+54,Berne Airport,5,NULL,NULL,NULL
+55,Belem Airport,6,3,5,4
+56,Zaporizhia Airport,4,1,1,1
+57,Antananarivo Airport,4,1,2,2
+58,Curacao Airport,4,2,4,3
+59,Berlin Tegel Airport,3,1,2,2
+60,Blantyre Airport,4,NULL,NULL,NULL
+61,Washington National Airport,5,3,4,4
+62,Fayetteville Airport,10,3,5,5
+63,Yangon Airport,7,4,4,4
+64,Kahului Maui Airport,3,2,3,3
+65,Malmo Airport,5,4,4,3
+66,Tampere Pirkkala Airport,2,NULL,NULL,NULL
+67,Montgomery Regional Airport,9,NULL,4,4
+68,Maastricht Aachen Airport,2,2,3,1
+69,Colombo Airport,4,3,3,3
+70,Cincinnati Airport,5,4,4,4
+71,Cape Town Airport,6,4,5,4
+72,Medina Airport,7,5,5,4
+73,Melbourne Airport,3,2,3,2
+74,Buenos Aires Airport,4,3,4,2
+75,Raratonga Airport,5,NULL,4,5
+76,Perpignan Airport,4,3,4,4
+77,Bangalore Airport,5,4,4,3
+78,Panama Tocumen Airport,4,2,3,2
+79,Boise Airport,6,2,4,4
+80,Vnukovo Airport,6,2,4,4
+81,Venice Treviso Airport,3,1,3,2
+82,Lanzarote Arrecife Airport,5,3,4,3
+83,Varna Airport,5,4,4,4
+84,Enfidha-hammamet Airport,3,1,4,2
+85,Gothenburg City Airport,6,NULL,5,5
+86,Blackpool Airport,3,NULL,3,3
+87,Damascus Airport,3,NULL,4,5
+88,Beauvais Airport,2,2,2,1
+89,Nantes Airport,2,1,2,2
+90,Innsbruck Airport,5,2,4,3
+91,Granada Airport,5,NULL,4,3
+92,Victoria Falls Airport,5,NULL,2,1
+93,Norman Manley Airport,10,5,5,5
+94,Sarajevo Airport,4,4,3,4
+95,Dubai World Central Airport,7,4,5,4
+96,Irkutsk Airport,2,NULL,NULL,NULL
+97,Chittagong Shah Amanat Airport,5,3,3,4
+98,Burnie Wynyard Airport,4,NULL,NULL,NULL
+99,Anchorage Airport,7,5,4,4
+100,Mangalore Airport,3,2,3,3
+101,Reno-tahoe Airport,7,5,5,4
+102,Philadelphia Airport,3,2,3,2
+103,Oakland Airport,5,2,3,3
+104,Sofia Airport,4,3,3,3
+105,Varadero Airport,5,3,3,2
+106,Sao Vicente Airport,7,5,5,5
+107,Santo Domingo Airport,6,2,4,3
+108,Ostrava Airport,8,2,5,5
+109,Vladivostok Airport,5,4,4,3
+110,Montego Bay Airport,3,3,3,2
+111,Penang Airport,4,3,3,3
+112,Bay Of Islands (kerikeri) Airport,4,NULL,5,3
+113,Rotterdam Airport,6,NULL,4,4
+114,Funchal Airport,4,3,4,2
+115,Liberia Airport,6,1,4,4
+116,Tehran Imam Khomeini,5,3,3,2
+117,Luxor Airport,3,2,3,2
+118,Salalah Airport,9,4,5,5
+119,Naples Municipal Airport,10,NULL,4,5
+120,Yogyakarta Airport,4,2,3,3
+121,Seychelles Airport,6,3,4,4
+122,Cusco Airport,4,2,3,2
+123,Iloilo Airport,8,NULL,4,4
+124,Green Bay Airport,8,5,5,5
+125,Ontario Airport,5,3,4,4
+126,Hurghada Airport,3,2,4,2
+127,Sana'a In't Airport,2,NULL,NULL,NULL
+128,Ponta Delgada Airport,5,3,4,3
+129,Mataveri Intl Airport,10,4,5,4
+130,Marsa Alam Airport,5,2,4,3
+131,Gothenburg-landvetter Airport,6,3,5,5
+132,Auckland Airport,5,2,4,3
+133,Kilimanjaro Airport,4,2,3,3
+134,Punta Cana Airport,3,2,3,2
+135,Marseille Airport,2,2,2,2
+136,Alderney Airport,9,NULL,5,5
+137,Newquay Airport,3,3,3,3
+138,Hiroshima Airport,4,4,5,4
+139,Belfast City Airport,4,3,4,3
+140,Port Macquarie Airport,5,NULL,3,5
+141,Bergen Airport,4,3,3,3
+142,Alice Springs Airport,7,NULL,4,4
+143,Keflavik Airport,4,2,3,2
+144,Larnaca Airport,5,3,4,3
+145,Dresden Airport,5,3,4,3
+146,Lviv Airport,5,5,4,4
+147,Rovaniemi Airport,6,2,4,5
+148,Krabi Airport,3,2,3,2
+149,New Orleans Airport,3,2,3,3
+150,Las Vegas Airport,4,3,3,3
+151,University Park Airport,9,5,5,5
+152,Wellington Airport,6,3,4,4
+153,Lanseria Airport,6,2,4,4
+154,Glasgow Airport,4,3,3,3
+155,Rodez Airport,5,5,5,5
+156,Nuremburg Airport,7,5,5,5
+157,Pakse Airport,9,4,5,5
+158,Stavanger Airport,4,2,5,3
+159,Quebec City Airport,6,4,4,4
+160,San Jose Intl Airport,4,3,4,3
+161,Almaty Airport,3,2,3,3
+162,Wichita Airport,9,4,5,5
+163,Nanchang Changbei Airport,1,1,1,2
+164,Halifax Airport,5,4,4,4
+165,Nanning Wuxu Airport,8,5,5,5
+166,Burbank Glendale Pasadena Airport,5,NULL,5,4
+167,Tallin Airport,6,3,5,4
+168,Frankfurt Hahn Airport,3,2,3,3
+169,Novosibirsk Airport,3,3,4,3
+170,Albury Airport,8,5,5,5
+171,Aberdeen Airport,3,2,3,2
+172,Kaliningrad Airport,2,1,1,1
+173,Surabaya Juanda Airport,6,3,4,3
+174,Dubrovnik Airport,5,3,4,3
+175,Sunshine Coast Airport,4,3,3,5
+176,Guilin Liangjiang Airport,6,3,4,4
+177,Shannon Airport,6,5,5,5
+178,Calgary Airport,4,2,4,3
+179,Kos Airport,2,2,2,2
+180,Hong Kong Airport,6,4,4,4
+181,Luton Airport,2,1,2,2
+182,Tashkent Airport,4,3,3,2
+183,Libreville Airport,5,3,4,4
+184,Manaus Airport,4,4,4,4
+185,Hamburg Airport,6,3,4,3
+186,Srinagar Airport,2,NULL,NULL,NULL
+187,Donetsk Airport,4,NULL,4,4
+188,Pristina Airport,5,4,5,4
+189,Al Ain Airport,8,4,4,4
+190,Harrisburg Airport,8,5,5,4
+191,Bocas Del Toro Airport,5,NULL,3,4
+192,Manchester–Boston Regional Airport,3,3,5,5
+193,Bournemouth Airport,2,3,3,2
+194,Richmond Airport,5,2,4,4
+195,Stuttgart Airport,5,3,4,4
+196,Sumburgh Airport,3,NULL,4,5
+197,Port Elizabeth Airport,5,2,4,4
+198,Pau Airport,4,NULL,NULL,NULL
+199,Saint John Airport,8,4,4,5
+200,Cardiff Airport,3,3,3,3
+201,Kiruna Airport,9,5,5,5
+202,Daytona Beach Airport,7,5,5,5
+203,Udon Thani Airport,6,5,5,5
+204,Milan Linate Airport,4,3,3,3
+205,Zhengzhou Airport,7,5,5,5
+206,Agadir Al Massira Airport,1,3,2,1
+207,Detroit Airport,6,4,4,4
+208,Incheon Airport,6,4,5,4
+209,Bourgas Airport,2,3,3,2
+210,Bandung Airport,7,4,4,4
+211,Freetown Airport,5,NULL,5,4
+212,Roi Et Airport,9,4,5,5
+213,Bologna Marconi Airport,3,2,3,2
+214,Senai Airport,6,3,3,2
+215,Recife Airport,6,3,4,4
+216,Karachi Airport,6,4,4,4
+217,Okinawa Naha Airport,6,4,5,4
+218,Kiev Borispol Airport,5,4,4,3
+219,Prince Rupert Airport,5,NULL,NULL,NULL
+220,Dakar Airport,2,2,2,2
+221,Aruba Reina Beatrix Airport,3,2,3,2
+222,Porto Airport,7,4,5,4
+223,Dalian Airport,4,5,5,1
+224,Mykonos Airport,3,1,2,1
+225,Plymouth Airport,4,NULL,NULL,NULL
+226,Quito Mariscal Airport,6,4,5,3
+227,Kazan Airport,3,2,4,2
+228,Plovdiv Airport,6,3,3,3
+229,Austin Airport,4,3,3,3
+230,Hannover Airport,6,4,4,4
+231,Hatay Airport,3,NULL,3,5
+232,La Rochelle Airport,4,2,3,2
+233,Basel Mulhouse Airport,4,2,3,2
+234,Kirkwall Airport,6,5,5,5
+235,Fuerteventura Airport,5,2,4,4
+236,Milan Bergamo Airport,4,4,3,3
+237,Piarco Airport,4,2,3,3
+238,Hanoi Airport,6,4,4,4
+239,Christchurch Airport,6,4,4,4
+240,Trivandrum Airport,4,4,4,3
+241,Aarhus Airport,1,3,3,3
+242,Leon Guanajuato Airport,4,NULL,3,3
+243,Vilnius Airport,4,3,4,4
+244,Ningbo Lishe Airport,8,4,4,5
+245,Ohrid Airport,7,NULL,4,2
+246,Brasilia Airport,4,3,4,4
+247,Udaipur Airport,3,NULL,NULL,NULL
+248,Aalborg Airport,6,5,5,5
+249,Rijeka Airport,5,2,4,3
+250,Portland Airport,6,5,5,4
+251,Roland Garros Airport,7,1,3,4
+252,Fuzhou Airport,5,3,3,2
+253,Kalamata Airport,6,3,4,3
+254,Albuquerque Airport,6,4,4,4
+255,Ulaanbaatar Airport,5,4,4,3
+256,Luleå Airport,8,5,4,5
+257,Bogota Airport,5,4,4,4
+258,Cebu Airport,4,2,3,3
+259,Tokyo Haneda Airport,7,4,5,4
+260,Manchester Airport,3,2,2,2
+261,Paris CDG Airport,3,2,3,2
+262,Banjarmasin Airport,8,4,4,4
+263,Antigua Vc Bird Airport,3,3,4,2
+264,Cotonou Airport,2,NULL,3,2
+265,Skiathos Airport,4,2,2,2
+266,Pointe-à-Pitre Airport,5,2,2,3
+267,Raleigh-Durham Airport,6,4,5,4
+268,Dar Es Salaam Airport,3,2,2,2
+269,Montréal Airport,3,2,3,2
+270,Gibraltar Airport,5,3,4,4
+271,St Lucia Airport,6,NULL,3,3
+272,Altenburg Airport,3,NULL,NULL,NULL
+273,Abidjan Airport,7,4,5,3
+274,Cairo Airport,3,2,3,3
+275,Ciudad Juarez Airport,5,3,3,3
+276,Salvador Airport,3,2,3,2
+277,Entebbe Airport,5,3,4,4
+278,San Jose Airport,5,4,4,4
+279,Dane County Regional Airport,9,4,5,5
+280,Guatemala Airport,5,2,4,4
+281,Tbilisi Airport,5,3,3,4
+282,Stockholm Arlanda Airport,5,3,4,3
+283,Amsterdam Schiphol Airport,5,3,4,2
+284,Bhopal Airport,10,5,5,5
+285,Naples Airport,4,2,3,2
+286,Kuantan Airport,3,NULL,3,5
+287,Windhoek Airport,6,3,4,3
+288,Manila Airport,4,2,3,2
+289,Istanbul Sabiha Gökçen Airport,4,2,3,2
+290,San Luis Potosi Airport,5,NULL,5,5
+291,Batumi Airport,10,4,5,5
+292,Chongqing Jiangbei Airport,7,4,5,4
+293,Jinan Yaoqiang Airport,4,2,3,3
+294,Ndola Airport,8,3,4,4
+295,Urumqi Airport,8,4,4,4
+296,Redding Municipal Airport,3,2,3,4
+297,Jaipur Airport,5,3,2,3
+298,Weihai Airport,7,NULL,5,5
+299,Buenos Aires Aeroparque,7,4,4,2
+300,Mashhad Airport,4,3,4,2
+301,Nyaung U Airport,7,4,2,4
+302,Mahon Airport,6,3,4,3
+303,Cancun Airport,4,2,3,2
+304,Stockholm Vasteras Airport,6,NULL,5,5
+305,Subang Kuala Lumpur Airport,5,3,4,5
+306,Westerland Airport,3,NULL,5,3
+307,Humberside Airport,7,NULL,5,5
+308,Houston IAH,3,2,3,2
+309,Belfast Airport,3,2,3,2
+310,Orlando Airport,3,2,3,2
+311,Bratislava Airport,4,4,4,3
+312,Coventry Airport,5,NULL,NULL,NULL
+313,Guadalajara Airport,5,5,3,4
+314,Benghazi Airport,3,NULL,1,3
+315,Santorini Airport,2,1,2,2
+316,Port Harcourt Airport,1,1,1,1
+317,Nairobi Airport,3,3,3,3
+318,Changzhou Airport,3,NULL,3,5
+319,Kalmar Airport,9,3,5,5
+320,Ireland West Knock Airport,4,3,3,4
+321,Camiguin Airport,1,1,1,1
+322,Athens Airport,6,4,4,4
+323,Long Beach Airport,7,5,5,5
+324,Barbados Grantley Adams Airport,4,4,4,2
+325,Leeds Bradford Airport,2,1,2,2
+326,Bishkek Airport,5,4,4,3
+327,Sapporo Chitose Airport,5,5,5,4
+328,Broken Hill Airport,8,5,5,4
+329,Cologne/bonn Airport,6,3,4,4
+330,Fukuoka Airport,5,1,4,4
+331,Coimbatore Airport,3,3,3,3
+332,Ushuaia Airport,3,3,4,5
+333,Indianapolis Airport,5,5,4,5
+334,Dunedin Airport,7,3,4,4
+335,Mauritius Airport,5,3,4,3
+336,Coffs Harbour Airport,4,NULL,4,5
+337,Chandigarh Airport,6,4,5,4
+338,Houston Hobby Airport,5,4,5,4
+339,Fairbanks Airport,4,NULL,3,5
+340,John Wayne Airport,7,4,4,4
+341,Dammam Port Airport,1,2,2,1
+342,Ballina Byron Airport,3,NULL,4,2
+343,Lilongwe Airport,6,4,4,4
+344,Xining Airport,4,3,4,2
+345,Zhuhai Airport,4,NULL,NULL,NULL
+346,Gladstone Airport,6,4,5,5
+347,Deer Lake Regional Airport,4,NULL,5,5
+348,St Pete-Clearwater Airport,4,2,4,2
+349,Jakarta Airport,5,3,3,3
+350,Narrandeera-leeton Airport,4,NULL,NULL,NULL
+351,Phoenix Airport,3,2,3,2
+352,Sharjah Airport,3,2,2,2
+353,Kent Airport,8,NULL,5,4
+354,Faro Airport,3,2,2,2
+355,Bandar Seri Begawan Airport,4,3,3,4
+356,Greater Rochester Airport,4,NULL,4,4
+357,Heraklion Airport,2,1,1,2
+358,Weeze Airport,2,1,2,2
+359,Seville Airport,4,2,3,3
+360,Prague Airport,5,3,4,3
+361,Bilbao Airport,7,4,4,4
+362,Long Island Macarthur Airport,8,5,5,5
+363,Baghdad Airport,4,4,3,3
+364,Barcelona Airport,3,2,3,2
+365,Robert L Bradshaw St Kitts Airport,3,3,3,2
+366,Saskatoon Airport,5,5,5,5
+367,Hat Yai Airport,7,NULL,4,4
+368,Phoenix-Mesa Gateway Airport,10,5,5,5
+369,Melbourne Avalon Airport,4,1,4,3
+370,Hamburg Lubek Airport,5,NULL,NULL,NULL
+371,Ekaterinburg Koltsovo Airport,6,4,3,5
+372,Hancock County-bar Harbor Airport,8,NULL,5,5
+373,Kunming Airport,6,3,4,4
+374,Luxembourg Airport,5,3,4,3
+375,Palma de Majorca Airport,4,3,4,3
+376,Bari Palese Airport,4,4,3,2
+377,Tirana Airport,5,4,5,4
+378,Budapest Ferihegy Airport,4,2,3,2
+379,Belo Horizonte Confins Airport,5,4,4,4
+380,Horn Island Airport,9,NULL,4,5
+381,Pune Airport,3,2,2,3
+382,Puerto Vallarta Airport,5,2,4,4
+383,Hailar Dongshan Airport,9,NULL,5,5
+384,Cluj-napoca Airport,4,2,3,2
+385,Lisbon Airport,3,2,3,2
+386,Koh Samui Airport,7,4,4,4
+387,Pittsburgh Airport,3,3,3,3
+388,Sawyer Airport,5,4,5,4
+389,Odessa Airport,3,1,3,3
+390,Laoag Airport,7,4,4,2
+391,Vientiane Airport,7,3,4,5
+392,Ahmedabad Airport,3,2,2,2
+393,Dublin Airport,5,3,4,3
+394,Bristol Airport,3,3,3,2
+395,Gdansk Airport,6,4,5,4
+396,Kingston Airport,4,NULL,5,4
+397,Singapore Seletar Airport,6,NULL,NULL,NULL
+398,Livingstone Airport,5,NULL,2,2
+399,Broome Airport,3,1,3,1
+400,Albany Airport,6,NULL,5,5
+401,London Heathrow Airport,4,3,4,3
+402,Wagga Wagga Airport,5,NULL,5,5
+403,Yiwu Airport,5,3,4,4
+404,Helsinki Vantaa Airport,6,3,4,4
+405,London Stansted Airport,2,2,2,2
+406,Antwerp Deurne Airport,6,3,5,5
+407,Baneasa Airport,1,NULL,2,1
+408,Santa Genoveva Airport,4,NULL,3,5
+409,Sal Airport,6,3,4,3
+410,Torp Airport,4,2,4,4
+411,Tri-Cities Airport,8,4,5,5
+412,Nagpur Airport,4,4,3,2
+413,Perth Airport,3,2,3,2
+414,Santander Airport,5,3,2,4
+415,Norfolk Airport,4,2,2,3
+416,Tokyo Narita Airport,6,4,5,3
+417,Paramaribo Airport,4,2,3,3
+418,Calcutta Airport,8,4,4,4
+419,Norrköping Airport,4,NULL,NULL,NULL
+420,Xiamen Airport,6,3,4,3
+421,Barra Eoligarry Airport,10,5,5,5
+422,Washington Dulles Airport,4,3,3,2
+423,Trondheim Airport,3,NULL,NULL,NULL
+424,Valladolid Airport,3,NULL,NULL,NULL
+425,Veracruz Airport,6,3,4,4
+426,Hamad  Doha Airport,6,4,4,3
+427,Juliaca Airport,5,3,5,4
+428,Port Moresby Airport,4,4,3,3
+429,Nakhon Si Thammarat Airport,8,2,3,5
+430,Myrtle Beach Airport,7,3,5,5
+431,Ancona Airport,8,4,3,4
+432,Kiev Zhulyany Airport,6,5,4,4
+433,Preveza Airport,2,3,3,1
+434,Chattanooga Metropolitan Airport,5,NULL,NULL,NULL
+435,Siem Reap Airport,6,4,4,4
+436,Lima Airport,4,3,4,3
+437,Johannesburg Airport,4,3,4,3
+438,Shenzhen Baoan Airport,4,4,4,2
+439,Asturias Airport,6,NULL,5,3
+440,Montpellier Airport,6,4,4,4
+441,Madurai Airport,9,NULL,5,5
+442,Yerevan Airport,6,5,5,4
+443,Hangzhou Airport,5,5,4,3
+444,Greenville–Spartanburg Airport,7,4,5,4
+445,Taipei Songshan Airport,8,4,5,5
+446,Sanya Airport,4,5,4,4
+447,Eilat Airport,4,NULL,NULL,NULL
+448,Atlanta Hartsfield Airport,4,3,4,2
+449,Rimini Airport,4,NULL,1,1
+450,Tianjin Binhai Airport,3,2,3,3
+451,Southampton Airport,4,3,4,3
+452,Edmonton Airport,4,3,4,4
+453,Bahrain Airport,5,3,4,4
+454,Ibiza Airport,6,3,3,2
+455,Melilla Airport,10,5,5,5
+456,Paderborn Airport,7,4,5,5
+457,Hamilton Airport,5,4,4,4
+458,Durham/tees Valley Airport,4,NULL,1,3
+459,Southend Airport,6,3,4,4
+460,Cartagena Rafael Nunez Airport,5,4,4,4
+461,Vilanculos Airport,10,4,5,5
+462,Holguin Airport,3,2,2,1
+463,Lamu Airport,4,NULL,3,5
+464,Thandwe Airport,3,NULL,3,5
+465,Bloomington Airport,4,NULL,5,5
+466,St Petersburg Airport,3,3,3,2
+467,Puerto Maldonado Airport,8,4,5,4
+468,Colorado Springs Airport,5,5,5,5
+469,Lanzhou Airport,8,4,5,4
+470,Piedmont Triad Airport,10,5,5,5
+471,Victoria Intl Airport,6,3,5,4
+472,Harbin Taiping Airport,5,3,3,4
+473,Strasbourg Airport,4,3,4,4
+474,Glasgow Prestwick Airport,4,3,4,3
+475,Palonegro Intl Airport,9,4,5,5
+476,Djibouti Ambouli Airport,4,2,2,2
+477,Arkhangelsk Airport,4,NULL,3,5
+478,Mackay Airport,9,5,5,5
+479,Fortaleza Airport,2,1,3,2
+480,Salzburg Airport,5,2,4,3
+481,Vancouver Airport,5,3,4,3
+482,Juba Airport,2,NULL,2,2
+483,Dortmund Airport,5,3,4,3
+484,Simferopol Airport,5,4,3,2
+485,Minneapolis St Paul Airport,4,3,4,3
+486,Bordeaux Airport,2,1,2,2
+487,Beijing Capital Airport,3,2,4,2
+488,Ajaccio Airport,3,2,2,3
+489,Munich Airport,5,3,4,3
+490,Hyderabad Airport,6,4,4,3
+491,Rogue Valley Medford Airport,2,NULL,NULL,NULL
+492,Dushanbe Airport,5,4,3,4
+493,Xi'an Airport,5,3,4,3
+494,Bismarck Airport,8,3,5,5
+495,Waterford Airport,4,NULL,5,5
+496,Izmir Airport,6,5,4,4
+497,Chiang Mai Airport,6,3,4,4
+498,Orlando Sanford Airport,5,3,3,3
+499,Punta Del Este Airport,3,NULL,NULL,NULL
+500,Boa Vista Airport,5,2,3,4
+501,Vienna Airport,4,3,4,3
+502,Honiara Airport,3,2,2,2
+503,Tromso Airport,7,NULL,4,4
+504,Doha Airport,4,4,3,3
+505,Chicago O'Hare Airport,3,3,3,2
+506,Sydney Airport,4,2,3,3
+507,Sacramento Airport,7,4,4,4
+508,Los Angeles LAX Airport,3,2,3,2
+509,Clark Airport,5,3,4,3
+510,Brno Airport,9,4,4,5
+511,Akita Airport,6,3,5,3
+512,Amritsar Airport,4,3,4,4
+513,Townsville Airport,7,4,4,4
+514,Denver Airport,4,3,4,3
+515,Port Au Prince Airport,8,NULL,5,4
+516,Monastir Airport,3,NULL,3,2
+517,Seattle Airport,3,2,3,2
+518,Chisinau Airport,8,4,5,5
+519,Lahore Airport,4,2,3,2
+520,Guernsey Airport,5,5,4,4
+521,Phuket Airport,3,2,3,2
+522,Belgrade Airport,6,4,4,4
+523,Central Nebraska Regional Airport,7,5,5,5
+524,Riga Airport,5,4,4,3
+525,Langkawi Airport,5,3,3,4
+526,Sligo Airport,4,NULL,NULL,NULL
+527,Wick Airport,8,NULL,5,5
+528,Seoul Gimpo Airport,4,2,3,3
+529,Toronto City Centre Airport,6,4,4,4
+530,Bangkok Suvarnabhumi Airport,4,3,4,2
+531,Fes-Saïss Airport,4,3,3,2
+532,Montevideo Airport,7,4,5,4
+533,Outagamie County Airport,3,NULL,NULL,NULL
+534,Thessaloniki Airport,4,2,3,3
+535,Ayers Rock Airport,6,1,3,5
+536,Kerry Airport,6,5,3,5
+537,Kalibo Airport,4,2,3,3
+538,Ottawa Airport,6,4,5,5
+539,Mildura Airport,10,5,5,5
+540,Kona Airport,4,2,3,2
+541,Darwin Airport,4,3,3,3
+542,Guayaquil Airport,5,4,5,3
+543,Havana Airport,3,2,3,2
+544,Cuiaba Airport,2,3,3,5
+545,Port Vila Bauerfield Airport,3,NULL,3,1
+546,Bermuda Airport,3,3,3,1
+547,Kigali Airport,5,5,4,3
+548,Managua Airport,7,4,4,4
+549,Honolulu Airport,3,2,2,2
+550,Akron–Canton Airport,10,5,5,5
+551,Oslo Airport,4,2,3,3
+552,Krakow Airport,4,3,3,2
+553,Erbil Intl Airport,6,4,4,3
+554,Zagreb Airport,5,3,4,3
+555,Des Moines Airport,8,4,4,4
+556,Fort Wayne Airport,4,3,4,3
+557,Santiago De Chile Airport,5,2,3,2
+558,Tours Airport,10,3,5,5
+559,Lugano Airport,7,NULL,5,5
+560,Sao Paulo Congonhas Airport,3,2,3,3
+561,Syracuse Hancock Airport,6,3,3,4
+562,El Paso Airport,8,3,5,5
+563,Heho Airport,7,3,2,4
+564,Venice Marco Polo Airport,3,2,3,2
+565,Barnaul Airport,3,NULL,NULL,NULL
+566,Svalbard Airport,6,4,4,1
+567,Dusseldorf Airport,5,3,4,3
+568,Tehran Mehrabad Airport,3,3,2,3
+569,Kuching Airport,4,2,3,4
+570,Malabo Airport,4,NULL,5,4
+571,London City Airport,4,3,4,3
+572,Wenzhou Longwan Airport,10,5,5,5
+573,Jacksonville Airport,7,5,5,5
+574,Kinshasa Airport,4,5,3,3
+575,Faleolo Airport,5,4,4,5
+576,Porto Alegre Airport,9,4,5,5
+577,Malta Airport,6,3,4,4
+578,Bucharest Otopeni Airport,4,2,3,2
+579,São Paulo Viracopos,8,5,5,4
+580,Wakkanai Airport,5,NULL,NULL,NULL
+581,Waco Airport,7,3,5,3
+582,Volgograd Airport,3,NULL,3,3
+583,KLIA Kuala Lumpur Airport,5,3,3,3
+584,Davao Airport,5,1,3,4
+585,Paris Orly Airport,3,2,3,2
+586,Sioux Falls Airport,10,5,5,5
+587,Poznan Airport,5,5,3,4
+588,Mexico City Airport,4,2,3,2
+589,Mineralnye Vody Airport,10,5,5,5
+590,Maun Airport,3,NULL,NULL,NULL
+591,Maputo Airport,5,NULL,4,4
+592,Bengkulu Airport,10,5,5,5
+593,Seoul Incheon Airport,5,3,4,3
+594,Verona Airport,3,1,2,2
+595,Bangkok Don Muang Airport,4,3,3,3
+596,Birsa Munda Airport,9,5,5,5
+597,Ankara Airport,7,4,4,4
+598,Nauru International Airport,4,3,2,2
+599,Cork Airport,6,4,5,4
+600,Caracas Airport,3,NULL,5,3
+601,San Sebastian Airport,5,3,4,3
+602,Centrair Nagoya Airport,7,5,5,4
+603,Bremen Airport,5,2,4,4
+604,Princess Juliana Intl Airport,2,2,4,2
+605,Rhodes Airport,2,2,2,2
+606,Graz Airport,8,4,5,5
+607,Minsk National Airport,7,4,5,4
+608,Paro Airport,7,3,4,5
+609,Noumea Airport,4,3,4,4
+610,Exeter Airport,4,3,3,3
+611,Grand Rapids Airport,6,4,3,3
+612,Jackson Hole Airport,5,3,5,4
+613,Tampa Airport,7,4,4,4
+614,Kashgar Airport,2,1,2,3
+615,Rostov Na Donu Airport,4,NULL,5,3
+616,Doncaster Sheffield Airport,6,4,4,4
+617,Friedrichshafen Airport,10,NULL,5,5
+618,East Midlands Airport,2,2,3,2
+619,Aguascalientes Airport,5,2,3,4
+620,Ende Airport,5,NULL,3,3
+621,Springfield-Branson Airport,10,5,5,5
+622,Liverpool Airport,3,2,2,3
+623,Ljubljana Airport,7,4,4,4
+624,Astana Airport,7,3,5,4
+625,Frankfurt Main Airport,3,3,3,2
+626,Khartoum Airport,2,1,2,1
+627,Moscow Domodedovo Airport,4,3,3,3
+628,Crown Point Tobago Airport,2,2,2,2
+629,Papeete Airport,4,2,4,2
+630,Isle Of Man Airport,5,3,4,3
+631,Bloemfontein Airport,4,NULL,NULL,NULL
+632,Murcia San Javier Airport,6,5,4,4
+633,Bodrum Airport,2,3,3,3
+634,Toronto Pearson Airport,3,2,3,2
+635,Palm Springs Airport,6,NULL,5,5
+636,Madrid Barajas Airport,4,3,4,3
+637,Bacau Airport,3,1,3,3
+638,Medan Airport,7,5,4,4
+639,Shreveport Airport,4,3,4,3
+640,Sunan Pyongyang Airport,4,5,3,2
+641,Alor Setar Airport,4,NULL,5,5
+642,Eindhoven Airport,4,2,3,2
+643,Adelaide Airport,6,4,4,3
+644,Dili Airport,8,4,4,5
+645,Nadi Airport,5,3,3,3
+646,Mytilene Airport,10,1,3,3
+647,Kefalonia Airport,2,1,1,2
+648,Denpasar Bali Airport,4,3,3,3
+649,Agadir Airport,4,NULL,5,3
+650,Boston Logan Airport,4,3,3,3
+651,Guangzhou Airport,4,2,3,3
+652,Tabriz Airport,6,4,5,5
+653,Queenstown Airport,4,2,4,3
+654,Jiamusi Airport,3,NULL,3,5
+655,Kualanamu Airport,5,3,3,3
+656,Dallas Fort-Worth Airport,4,3,3,2
+657,Pensacola Airport,9,5,4,4
+658,Douala Airport,3,3,3,3
+659,Dundee Airport,5,5,5,3
+660,Lille Airport,7,4,4,4
+661,Bergerac Airport,4,2,3,2
+662,Providence Airport,8,5,5,5
+663,Singapore Changi Airport,7,4,5,4
+664,Billund Airport,5,NULL,3,2
+665,Liege Airport,5,NULL,4,5
+666,Almeria Airport,5,4,4,3
+667,Olbia Costa Smeralda Airport,5,NULL,NULL,NULL
+668,Omaha Airport,9,5,5,5
+669,Taupo Airport,8,4,5,5
+670,Ho Chi Minh City Airport,5,3,4,3
+671,Magong Airport,10,5,4,4
+672,Biarritz Airport,1,1,3,1
+673,Stewart Airport,5,3,4,4
+674,Algiers Airport,5,3,4,4
+675,Miami Airport,2,2,3,2
+676,Norwich Airport,3,2,3,3
+677,Canberra Airport,6,4,4,4
+678,Surat Thani Airport,8,4,4,5
+679,Stockholm Bromma Airport,6,5,5,5
+680,Beirut Airport,5,3,4,3
+681,La Guardia Airport,3,2,2,2
+682,Nashville Airport,7,4,4,4
+683,Bydgoszcz Airport,8,4,5,5
+684,Zanzibar Airport,3,2,2,2
+685,Jinzhou Airport,2,NULL,1,3
+686,Hewanorra Intl Airport,5,2,4,4
+687,Warsaw Modlin Airport,3,2,3,2
+688,Catania Airport,2,2,3,2
+689,San Juan Airport,3,3,4,2
+690,Winnipeg Airport,6,4,4,4
+691,Toluca Airport,9,4,4,5
+692,Lyon Airport,2,2,2,1
+693,Chennai Airport,3,2,2,2
+694,Key West Intl Airport,8,5,5,5
+695,Kalibo Airport,2,1,2,1
+696,Greater Binghamton Airport,2,NULL,3,3
+697,Brussels Zaventem Airport,4,3,4,3
+698,Timisoara Airport,6,3,4,5
+699,Columbus Airport,6,5,4,4
+700,Cairns Airport,4,3,3,3
+701,Salt Lake City Airport,4,3,4,4
+702,Bagdogra Airport,5,NULL,2,4
+703,Kota Kinabalu Airport,6,3,4,4
+704,Lagos Airport,3,2,2,2
+705,Phnom Penh Airport,6,3,4,4
+706,Wilson Airport,8,4,4,4
+707,Lucknow Airport,6,3,3,3
+708,Muscat Seeb Airport,5,2,3,2
+709,Dimapur Airport,1,1,1,3
+710,Mandalay Annisaton Airport,7,4,3,5
+711,London Gatwick Airport,4,2,3,2
+712,Roanoke Regional Airport,3,2,3,4
+713,King Mswati III Intl Airport,5,NULL,4,4
+714,Tijuana Airport,5,NULL,5,3
+715,Memmingen Airport,6,3,3,4
+716,Dalaman Airport,2,2,3,2
+717,Baltimore Washington Airport,4,4,4,3
+718,Westchester County Airport,6,3,3,5
+719,St Louis Airport,4,3,4,3
+720,Alghero Fertilia Airport,8,3,4,5
+721,Durban Airport,6,4,4,4
+722,Berlin Tempelhof Airport,5,NULL,NULL,NULL
+723,Hilo Airport,4,2,3,4
+724,Chiang Rai Airport,4,3,3,3
+725,Charlotte Airport,4,2,3,3
+726,Zurich Airport,5,4,5,4
+727,Klagenfurt Airport,7,3,4,4
+728,Shanghai Hongqiao Airport,5,3,4,4
+729,Taba Airport,2,NULL,NULL,NULL
+730,Pula Airport,3,1,3,2
+731,Gold Coast Airport,3,2,3,2
+732,San Diego Airport,4,3,3,3
+733,Cleveland Airport,4,2,3,3
+734,Accra Kotoka Airport,4,2,3,3
+735,Muenster-osnabrueck Airport,7,4,5,5
+736,Malaga Airport,3,2,3,2
+737,Little Rock Airport,7,5,5,4
+738,Cabo San Lucas,1,NULL,NULL,NULL
+739,Chicago Midway Airport,5,3,4,3
+740,Kuwait Airport,3,2,2,2
+741,Addis Ababa Airport,3,2,2,2
+742,Valencia Airport,4,2,2,2
+743,Nimes Airport,2,5,3,3
+744,Islamabad Airport,4,3,3,3
+745,Vadodara Airport,3,2,3,3
+746,Pattaya Airport,6,2,2,3
+747,Gimhae Airport,4,2,4,1
+748,San Francisco Airport,4,3,4,3
+749,Male Airport,4,3,4,4
+750,Hermosillo Airport,8,4,4,5
+751,Pisa Airport,3,1,2,2
+752,Paphos Airport,3,2,3,2
+753,Hartford Airport,5,5,4,4
+754,Leh Airport,3,2,2,1
+755,Fort Myers Airport,8,4,5,4
+756,Istanbul Ataturk Airport,4,2,3,2
+757,Cochabamba Airport,4,3,3,3
+758,Kosice Airport,5,NULL,3,3
+759,Girona Airport,7,NULL,4,5
+760,Brussels Charleroi Airport,3,2,3,2
+761,St Thomas Airport,2,1,1,1
+762,Bozeman Yellowstone Airport,7,4,5,4
+763,Tallahassee Airport,2,NULL,3,2
+764,Timimoun Airport,1,1,2,1
+765,Adana Airport,3,2,4,2
+766,Geneva Airport,3,2,3,2
+767,Borg El Arab Airport,3,3,3,2
+768,Leipzig/halle Airport,6,4,4,5
+769,Derry Airport,9,NULL,5,5
+770,Tegucigalpa Airport,7,4,4,4
+771,Szczecin Airport,4,NULL,3,2
+772,Chambery Airport,2,2,2,1
+773,Toulouse Airport,4,3,3,3
+774,Owen Roberts International Airport,1,1,1,1
+775,Sde Dov Airport,1,NULL,3,3
+776,Rome Ciampino Airport,3,2,3,2
+777,Mumbai Airport,4,3,3,2
+778,Dubai Airport,4,2,3,2
+779,Kansas City Airport,2,1,2,2
+780,Jersey Airport,4,2,4,4
+781,Bacolod–Silay Airport,5,2,2,4
+782,Jerez De La Frontera Airport,5,4,5,5
+783,Lexington Airport,10,5,5,5
+784,Banjul Airport,4,4,3,4
+785,Tripoli Airport,3,NULL,3,3
+786,Dallas Love Field Airport,6,4,5,5
+787,Riyadh Airport,4,2,3,2
+788,Alicante Airport,4,3,4,3
+789,Santiago de Cuba Airport,1,1,1,1
+790,Ouagadougou Airport,4,3,2,3
+791,Moscow Sheremetyevo Airport,4,2,3,3
+792,Raipur Airport,3,NULL,4,4
+793,Hobart Airport,5,3,4,4
+794,Sharm El Sheikh Airport,2,3,2,2
+795,Goa Airport,3,2,2,2
+796,Newark Airport,2,2,2,2
+797,Rio De Janeiro Airport,3,3,3,3
+798,Shenyang Airport,7,3,5,5
+799,Wroclaw Airport,7,3,5,4
+800,Panama Albrook Airport,1,1,1,1
+801,Chania Airport,4,2,3,2
+802,Toulon Airport,9,4,5,5
+803,Trapani-birgi Airport,3,NULL,4,3
+804,Antalya Airport,3,2,3,2
+805,Edinburgh Airport,3,2,3,2
+806,Tiruchirappalli Airport,4,3,2,3
+807,Tulsa International Airport,8,5,5,5
+808,Kathmandu Airport,3,2,2,2
+809,Buffalo Airport,5,4,4,4
+810,Lusaka Airport,3,NULL,3,5
+811,Sao Paulo Guarulhos Airport,3,3,3,2
+812,Calicut Intl Airport,4,3,2,2
+813,Brisbane Airport,4,3,4,3
+814,Kansai Osaka Airport,5,4,5,3
+815,Chengdu Airport,5,3,4,4
+816,Luang Prabang Airport,6,4,4,4
+817,Inverness Airport,4,3,3,3
+818,Louisville Airport,9,5,5,5
+819,Kaohsiung Airport,5,4,4,4
+820,Genova Airport,5,NULL,4,4
+821,Palm Beach Airport,10,5,5,5
+822,Casablanca Airport,3,2,2,2
+823,Tontouta Airport,7,NULL,5,5
+824,Trieste Airport,5,2,3,4
+825,Amman Queen Alia Airport,5,4,4,3
+826,Taipei Airport,6,4,4,3
+827,Nassau Airport,4,4,4,3
+828,Abu Dhabi Airport,4,2,3,2
+829,Carcassonne Airport,4,2,3,3
+830,Zakynthos Airport,2,2,3,3
+831,San Andres Island Airport,3,1,2,1
+832,Shanghai Pudong Airport,3,2,3,2
+833,Cayenne Airport,8,3,4,3
+834,Savannah Airport,6,2,4,4
+835,Huntsville Airport,4,NULL,NULL,NULL
+836,Brindisi Airport,5,4,4,2
+837,Milwaukee Airport,8,5,5,5
+838,Jeddah Airport,2,1,2,2
+839,Turin Airport,4,2,3,3
+840,Corpus Christi Airport,6,4,5,5
+841,Cochin Airport,4,3,4,3
+842,Marrakech Airport,4,3,4,2
+843,Haikou Airport,4,NULL,5,5
+844,Puerto Princesa Airport,7,4,4,4
+845,Ostend–Bruges Airport,8,4,4,4
+846,Mombasa Airport,4,4,3,3
+847,Launceston Airport,6,NULL,4,4
+848,Karlsruhe Airport,4,NULL,5,5
+849,Baku Airport,5,4,4,3
+850,Brescia Airport,2,NULL,5,1
+851,Rockhampton Airport,3,NULL,5,5
+852,Macau Airport,4,4,4,4
+853,Manado Airport,7,4,4,4
+854,Tucson Airport,4,NULL,5,3
+855,Tunis Carthage Airport,6,3,3,3
+856,Medellin Airport,6,4,5,4
+857,Delhi Airport,5,3,4,3
+858,Ercan Airport,5,5,4,3
+859,Stockholm-skavsta Airport,2,1,2,2
+860,Abuja Airport,3,2,2,2
+861,Berlin Schonefeld Airport,2,1,2,2

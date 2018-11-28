@@ -1,0 +1,136 @@
+index,airline,rating,comfort,food,bath,wifi,staff
+1,Druk Air,2,3,1,NULL,3,4
+2,Aegean Airlines,5,4,3,3,4,4
+3,Air France,4,3,3,3,3,3
+4,Air Canada,4,4,3,3,3,3
+5,TUI Airways,9,5,4,NULL,4,5
+6,Ravn Alaska,8,4,4,3,5,5
+7,Virgin America,3,3,2,2,4,4
+8,Transaero Airlines,3,3,3,1,4,2
+9,Azerbaijan Airlines,10,5,4,4,4,5
+10,American Airlines,4,3,2,3,4,3
+11,Vietnam Airlines,6,4,3,3,4,3
+12,Star Alliance,5,4,3,4,4,3
+13,TAAG Angola Airlines,2,1,1,3,2,1
+14,American Express Centurion,5,3,3,3,4,3
+15,Egyptair,3,3,2,2,3,3
+16,Kenya Airways,7,4,3,5,4,4
+17,Malaysia Airlines,4,3,3,3,4,3
+18,Etihad Airways,5,3,3,3,4,4
+19,DNATA,4,3,2,3,3,3
+20,Xiamen Airlines,6,3,NULL,3,5,3
+21,LOT Polish Airlines,6,4,3,3,3,4
+22,South African Airways,4,3,3,4,4,3
+23,Japan Airlines,5,4,3,4,4,4
+24,Aeromexico,5,3,2,3,3,3
+25,Bangkok Airways,7,4,4,4,4,4
+26,Adria Airways,5,4,2,4,3,3
+27,EVA Air,6,4,4,4,4,4
+28,China Southern Airlines,5,4,3,4,4,3
+29,Jet Airways,3,3,2,3,3,2
+30,Air Tahiti Nui,4,3,2,3,4,3
+31,Thai Airways,4,3,3,3,4,4
+32,Scoot,8,4,4,4,4,5
+33,SAS Scandinavian,4,3,3,3,4,3
+34,Avianca,4,3,2,3,3,3
+35,Aircalin,2,3,2,2,4,3
+36,Korean Air,3,3,2,3,4,3
+37,Air Serbia,9,4,4,5,5,4
+38,LAN Airlines,6,4,3,4,4,4
+39,Air China,3,3,2,2,2,2
+40,Finnair,4,3,2,3,4,3
+41,S7 Siberia Airlines,6,4,4,4,4,4
+42,LATAM Airlines,7,4,4,4,4,4
+43,ANA All Nippon Airways,6,4,4,4,4,5
+44,Hong Kong Airlines,8,4,4,3,5,4
+45,Mahan Air,8,5,4,3,5,5
+46,Royal Air Maroc,4,3,2,3,3,2
+47,Air India,3,3,2,2,2,2
+48,El Al Israel Airlines,4,3,3,4,3,3
+49,flydubai,8,4,2,3,1,4
+50,SATA International,1,2,1,2,1,1
+51,Cathay Pacific Airways,7,4,4,4,4,4
+52,Asiana Airlines,5,4,3,4,5,4
+53,Gol Transportes Aéreos,4,5,3,3,3,4
+54,TAROM Romanian,4,2,2,2,2,2
+55,Royal Jordanian Airlines,3,3,2,1,3,2
+56,Myanmar National Airlines,9,5,4,NULL,2,5
+57,Aer Lingus,3,3,2,2,3,3
+58,Bulgaria Air,6,5,3,NULL,3,4
+59,Ukraine International,6,3,3,4,4,3
+60,Salon Icare,3,2,2,1,2,2
+61,SriLankan Airlines,5,4,4,3,4,4
+62,Ethiopian Airlines,3,3,3,2,3,3
+63,Garuda Indonesia,4,3,2,3,3,3
+64,Saudi Arabian Airlines,5,3,3,4,4,4
+65,SkyTeam,4,3,2,3,3,3
+66,CSA Czech Airlines,4,4,3,4,4,4
+67,Pakistan Intl Airlines,3,4,3,2,3,4
+68,TAM Airlines,3,3,2,3,3,2
+69,Aspire by Swissport,6,3,3,3,4,3
+70,United Airlines,3,3,2,3,3,3
+71,Virgin Australia,6,3,3,4,4,4
+72,Luxair,4,5,4,NULL,4,4
+73,US Airways,3,3,2,3,3,3
+74,Delta Air Lines,3,3,2,3,3,3
+75,Qatar Airways,6,4,4,4,4,4
+76,Philippine Airlines,6,3,3,3,3,4
+77,Plaza Premium,6,4,3,4,4,4
+78,La Compagnie,2,1,2,2,3,2
+79,KLM Royal Dutch Airlines,4,3,3,3,4,3
+80,Air Europa,8,4,3,4,4,4
+81,AirAsia X,6,4,2,2,4,2
+82,Alitalia,4,3,2,3,3,3
+83,British Airways,4,3,3,3,4,3
+84,Lufthansa,5,3,3,4,4,3
+85,Aeroflot Russian Airlines,5,3,3,3,4,3
+86,No.1 Traveller,5,3,3,2,3,3
+87,Air Niugini,1,1,1,1,1,3
+88,Shenzhen Airlines,3,3,3,3,3,4
+89,China Eastern Airlines,4,2,2,3,3,3
+90,Dragonair,9,4,5,4,5,4
+91,Swiss Intl Air Lines,4,3,2,3,3,3
+92,Emirates,5,4,4,3,4,4
+93,Corsair,2,2,1,1,NULL,1
+94,Hainan Airlines,7,4,4,4,4,5
+95,Austrian Airlines,4,3,3,3,3,3
+96,Brussels Airlines,5,3,3,3,3,3
+97,Croatia Airlines,4,2,2,2,3,2
+98,Royal Brunei Airlines,4,3,3,4,4,4
+99,Air New Zealand,4,3,3,3,4,3
+100,Sichuan Airlines,3,3,2,4,5,5
+101,Aviator Lounge CPH,2,2,1,2,4,2
+102,China Airlines,4,3,3,3,4,3
+103,Icelandair,4,4,3,4,4,4
+104,Norwegian,7,4,4,4,4,3
+105,Priority Pass,4,3,2,3,3,3
+106,Air Astana,2,2,2,3,2,2
+107,Alaska Airlines,7,4,4,4,4,5
+108,Qantas Airways,5,4,3,4,4,4
+109,Middle East Airlines,7,4,3,3,4,4
+110,LIAT,5,3,3,3,4,4
+111,Gulf Air,5,4,4,4,4,4
+112,Flybe,2,2,2,1,2,3
+113,Shanghai Airlines,2,3,2,2,3,2
+114,Singapore Airlines,5,3,3,3,4,3
+115,Fiji Airways,5,3,3,3,4,4
+116,Hawaiian Airlines,4,3,1,2,4,3
+117,Oman Air,6,4,4,4,4,4
+118,TAP Portugal,3,3,2,2,3,2
+119,Biman Bangladesh Airlines,8,4,4,4,4,4
+120,SATS Premier,8,4,4,4,4,4
+121,Le Salon Phnom Penh,2,5,1,NULL,NULL,2
+122,Air Berlin,4,3,2,2,4,3
+123,VietJet Air,2,1,1,2,1,1
+124,Air Caraibes,5,3,1,1,4,4
+125,Iberia,5,4,3,3,3,3
+126,Ryanair,4,2,1,1,NULL,4
+127,QantasLink,9,5,4,NULL,5,5
+128,Air Mauritius,5,4,3,4,3,4
+129,Thomson Airways,1,1,1,NULL,5,1
+130,Turkish Airlines,6,4,4,4,4,4
+131,Copa Airlines,3,2,2,2,3,2
+132,SilkAir,7,4,4,3,NULL,4
+133,Virgin Atlantic,4,4,3,3,4,4
+134,Blue Islands,3,5,4,NULL,3,5
+135,Jet2.com,7,4,4,3,2,5
